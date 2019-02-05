@@ -1,16 +1,16 @@
-Pixel Dungeon
+Pixel Dungeon город качков
 =============
 
-Traditional roguelike game with pixel-art graphics and simple interface.
+Здрусьте.Я Хамфри, пока единственный в компаний Lapa Entertainment
 
-Pixel Dungeon on GooglePlay: 
-https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon
+Pixel Dungeon город качков:
 
-Official web-site: 
-http://pixeldungeon.watabou.ru/
 
-Developer's blog: 
-http://pixeldungeon.tumblr.com/
+Мой твиттер: 
+https://twitter.com/itzrealhumfrey
 
-To build the game you will need my unnamed game library:
+Мой Ютубчик: 
+https://www.youtube.com/channel/UCB2DlJi3de1E78M1yKFTApQ
+
+Хочешь сделать игру? вот ссылка!:
 https://github.com/watabou/PD-classes
